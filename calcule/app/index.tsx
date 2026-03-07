@@ -22,7 +22,7 @@ export default function Index() {
     <View style={styles.container}>
 
       <Text style={styles.titulo}>
-        Descubra o ano em que oi:
+        Descubra o ano em que nasceu:
       </Text>
 
       <TextInput
