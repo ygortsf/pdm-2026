@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mini-bio",
-    "slug": "mini-bio",
+    "name": "express-modal",
+    "slug": "express-modal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "minibio",
+    "scheme": "expressmodal",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -43,18 +43,6 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "bd5f5341-5282-4e18-838d-526a759b476b"
-      }
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/bd5f5341-5282-4e18-838d-526a759b476b"
     }
   }
 }
